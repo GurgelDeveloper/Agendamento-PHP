@@ -19,7 +19,7 @@ Clone o repositório:
 <br><br>
 bash
 Copiar código
-git clone https://github.com/seu_usuario/nome_do_repositorio.git<br>
+git clone https://github.com/GurgelDeveloper/Agendamento-PHP.git<br>
 Instale o XAMPP:
 <br><br>
 Baixe e instale o XAMPP a partir do site oficial.<br><br>
