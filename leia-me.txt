@@ -1,0 +1,7 @@
+Ao importar o banco de dados deverá ter as seguintes configurações no phpMyAdmin
+
+ private $host = 'localhost';  //NOME DO HOST: localhost
+    private $db_name = 'clinic'; // NOME DO BD: clinic
+    private $username = 'root'; // NOME DE USUÁRIO: root
+    private $password = '';	// SENHA: 
+    public $conn;
